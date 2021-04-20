@@ -1,0 +1,9 @@
+[submodule "django-graphql"]
+	path = django-graphql
+	url = git@github.com:subaquatic-pierre/django-graphql.git
+[submodule "react-apollo"]
+	path = react-apollo
+	url = git@github.com:subaquatic-pierre/react-apollo.git
+[submodule "infrastructure-django-react-ci-cd"]
+	path = infrastructure-django-react-ci-cd
+	url = git@github.com:subaquatic-pierre/infrastructure-django-react-ci-cd.git
