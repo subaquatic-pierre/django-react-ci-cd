@@ -1,0 +1,9 @@
+version: "3"
+services:
+  server:
+    env_file:
+      - django-graphql/docker.env
+    build: django-graphql/
+    ports:
+      - 8000:8000
+    image: django-grapqhl:latest
