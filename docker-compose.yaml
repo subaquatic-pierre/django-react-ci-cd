@@ -5,5 +5,5 @@ services:
       - django-graphql/docker.env
     build: django-graphql/
     ports:
-      - 8000:8000
+      - 80:80
     image: django-grapqhl:latest
